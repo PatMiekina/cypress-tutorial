@@ -1,4 +1,4 @@
-# Cupress Tutorial
+# Cypress Tutorial
 
 This is a step by step tutorial to add CircleCI to your project. It is a continuation of [government front-end styling tutorial](https://github.com/PatMiekina/gov-styling) and is followed by [CircleCI tutorial](https://github.com/PatMiekina/circleCI-tutorial).
 
