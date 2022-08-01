@@ -1,8 +1,10 @@
 # Cypress Tutorial
 
-This is a step by step tutorial to add CircleCI to your project. It is a continuation of [government front-end styling tutorial](https://github.com/PatMiekina/gov-styling) and is followed by [CircleCI tutorial](https://github.com/PatMiekina/circleCI-tutorial).
+This is a step by step tutorial to add Cypress tests to your project. It is a continuation of [government front-end styling tutorial](https://github.com/PatMiekina/gov-styling) and is followed by [CircleCI tutorial](https://github.com/PatMiekina/circleCI-tutorial).
 
 Big shoutout to marvelous [Donny](https://github.com/donnyhyon) & fabulous [Gabby](https://github.com/gab-bernotaite) for working on a tutorial with me, thanks guys! ❤️
+
+To start the tutorial clone this github repo.
 
 ## Run app
 ```
@@ -79,7 +81,7 @@ describe('My First Test', () => {
 ```
 
 ***Important***
-You need to run your server to be able to run E2E tests with cypress!
+<span style="color:red">You need to run your server to be able to run E2E tests with cypress!</span>
 
 ## Useful syntax
 
