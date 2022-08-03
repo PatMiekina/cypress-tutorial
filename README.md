@@ -4,7 +4,7 @@ This is a step by step tutorial to add Cypress tests to your project. It is a co
 
 Big shoutout to marvelous [Donny](https://github.com/donnyhyon) & fabulous [Gabby](https://github.com/gab-bernotaite) for working on a tutorial with me, thanks guys! ❤️
 
-To start the tutorial clone this github repo.
+To start the tutorial clone [this github repo](https://github.com/PatMiekina/gov-styling).
 
 ## Run app
 ```
